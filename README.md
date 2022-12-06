@@ -1,6 +1,6 @@
 # 桌宠-神乐七奈
 神乐七奈 shimeji 桌宠
-* 需要java环境
+* 需要java环境：双击start.bat
 
 > 作者 卡司红茶
 > B站链接 https://space.bilibili.com/85627145
